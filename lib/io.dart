@@ -3,7 +3,7 @@ import 'dart:convert';
 
 import 'package:http/http.dart' as http;
 import 'package:pool/pool.dart';
-import 'package:sse_channel/sse_channel.dart';
+import 'package:sse_channel2/sse_channel.dart';
 import 'package:stream_channel/stream_channel.dart';
 import 'package:uuid/uuid.dart';
 

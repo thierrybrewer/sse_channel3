@@ -1,4 +1,4 @@
-import 'package:sse_channel/html.dart';
+import 'package:sse_channel2/html.dart';
 
 import 'channel.dart';
 

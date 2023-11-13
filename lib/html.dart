@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:sse/client/sse_client.dart';
-import 'package:sse_channel/sse_channel.dart';
+import 'package:sse_channel2/sse_channel.dart';
 import 'package:stream_channel/stream_channel.dart';
 
 class HtmlSseChannel extends StreamChannelMixin implements SseChannel {
