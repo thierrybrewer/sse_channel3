@@ -6,7 +6,7 @@ wrappers for Server Sent Event connections.
 [stream_channel]: https://pub.dev/packages/stream_channel
 
 ```dart
-import 'package:sse_channel2/sse_channel.dart';
+import 'package:sse_channel3/sse_channel.dart';
 
 void main() {
   final channel =
