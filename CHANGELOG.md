@@ -1,3 +1,7 @@
+## 0.0.5
+
+- Update dependencies for uuid plugin
+
 ## 0.0.4
 
 - Update dependencies
